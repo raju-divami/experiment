@@ -1,2 +1,4 @@
 patient_username
 patient_name
+email
+phone
