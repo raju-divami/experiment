@@ -2,3 +2,6 @@ patient_username
 patient_name
 email
 phone
+gender
+dob
+password
